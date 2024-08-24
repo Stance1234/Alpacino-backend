@@ -3,6 +3,7 @@
     "currencies": [
       "eur",
       "usd"
+      
     ]
   },
   "users": [],
@@ -10,7 +11,7 @@
     {
       "id": "test-region-eu",
       "name": "EU",
-      "currency_code": "eur",
+      "currency_code": "ngn",
       "tax_rate": 0,
       "payment_providers": [
         "manual"
